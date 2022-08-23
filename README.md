@@ -3,7 +3,7 @@ Some Bash Scripts for Practice
 ## Clone My Project
       https://github.com/Ahmad-Rasheed-01/Bash-Scripting-Notes.git
 ## Table of Contents
-**01.** Hello Bash Scripting
+**01.** Hello Bash Scripting <br>
 **02.** Redirect To File
 **03.** Comments
 **04.** Conditional Statements
